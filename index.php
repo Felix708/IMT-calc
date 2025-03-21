@@ -9,8 +9,8 @@
 <body>
     <div class="container">
         <div class="card">
-            <h2 class="text-center">IMT ✈️</h2>
-            <h4 class="text-center" id="result">
+            <h2>IMT ✈️</h2>
+            <h4>
                 <?php
                 $hasil = "Masukkan Data"; // Default tampilan sebelum input
 
